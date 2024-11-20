@@ -9,6 +9,6 @@ All commands are run from the root of the project, from a terminal:
 | :------------------------ | :----------------------------------------------- |
 | `npm install`             | Installs dependencies                            |
 | `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `preview` | [Get help using the Astro CLI](https://landing-tesla-lime.vercel.app/)                     |
+| `preview` | [Tesla Landing](https://landing-tesla-lime.vercel.app/)                     |
 
 
